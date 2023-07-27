@@ -1,0 +1,16 @@
+C:\Users\Magnit96\source\repos\LayoutWPF\LayoutWPF\bin\Debug\LayoutWPF.exe.config
+C:\Users\Magnit96\source\repos\LayoutWPF\LayoutWPF\bin\Debug\LayoutWPF.exe
+C:\Users\Magnit96\source\repos\LayoutWPF\LayoutWPF\bin\Debug\LayoutWPF.pdb
+C:\Users\Magnit96\source\repos\LayoutWPF\LayoutWPF\obj\Debug\LayoutWPF.csproj.AssemblyReference.cache
+C:\Users\Magnit96\source\repos\LayoutWPF\LayoutWPF\obj\Debug\LayoutWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magnit96\source\repos\LayoutWPF\LayoutWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Magnit96\source\repos\LayoutWPF\LayoutWPF\obj\Debug\App.g.cs
+C:\Users\Magnit96\source\repos\LayoutWPF\LayoutWPF\obj\Debug\LayoutWPF_MarkupCompile.cache
+C:\Users\Magnit96\source\repos\LayoutWPF\LayoutWPF\obj\Debug\LayoutWPF_MarkupCompile.lref
+C:\Users\Magnit96\source\repos\LayoutWPF\LayoutWPF\obj\Debug\MainWindow.baml
+C:\Users\Magnit96\source\repos\LayoutWPF\LayoutWPF\obj\Debug\LayoutWPF.g.resources
+C:\Users\Magnit96\source\repos\LayoutWPF\LayoutWPF\obj\Debug\LayoutWPF.Properties.Resources.resources
+C:\Users\Magnit96\source\repos\LayoutWPF\LayoutWPF\obj\Debug\LayoutWPF.csproj.GenerateResource.cache
+C:\Users\Magnit96\source\repos\LayoutWPF\LayoutWPF\obj\Debug\LayoutWPF.csproj.CoreCompileInputs.cache
+C:\Users\Magnit96\source\repos\LayoutWPF\LayoutWPF\obj\Debug\LayoutWPF.exe
+C:\Users\Magnit96\source\repos\LayoutWPF\LayoutWPF\obj\Debug\LayoutWPF.pdb
